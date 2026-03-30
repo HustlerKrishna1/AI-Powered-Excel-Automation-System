@@ -142,35 +142,8 @@ Generated inside `/output` folder:
 
 ---
 
-## ⚠️ Common Errors
 
-### ❌ FileNotFoundError
 
-Fix:
-
-* Ensure Excel file name matches in code:
-
-```python
-EXCEL_FILE = "Book1.xlsx"
-```
-
----
-
-### ❌ Python not recognized
-
-Fix:
-
-* Reinstall Python with PATH enabled
-
----
-
-### ❌ Excel file locked
-
-Fix:
-
-* Close Excel before running script
-
----
 
 ## 🧪 Testing
 
@@ -208,18 +181,12 @@ Built by an AI/ML Engineer krishna focused on automation, analytics, and scalabl
 
 ## ⭐ Why This Project Matters
 
-This project demonstrates:
+This project demonstrate mainly:
 
 * Python (pandas)
 * Excel automation
 * Real-world data processing
 * End-to-end system thinking
-
-👉 Strong portfolio project for:
-
-* Data Analyst roles
-* AI/ML internships
-* Automation engineering jobs
 
 ---
 
