@@ -177,16 +177,6 @@ Generated inside `/output` folder:
 
 Built by an AI/ML Engineer krishna focused on automation, analytics, and scalable systems.
 
----
-
-## ⭐ Why This Project Matters
-
-This project demonstrate mainly:
-
-* Python (pandas)
-* Excel automation
-* Real-world data processing
-* End-to-end system thinking
 
 ---
 
